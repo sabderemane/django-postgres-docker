@@ -1,7 +1,7 @@
 # django-postgres-docker
 
 ## Build the three containers
-- postres
+- postgres
 - python 3
 - django
 
